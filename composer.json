@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/fiqh-php-salah-solar-angles",
+  "description": "High-Precision Astronomical Prayer Times Calculator (حاسبة مواقيت الصلاة الفلكية بزوايا الشمس الدقيقة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
